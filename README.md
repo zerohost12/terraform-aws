@@ -1,1 +1,1 @@
-Practica de nodo AWS
+Practica de nodo AWS-LAB
